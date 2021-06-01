@@ -41,9 +41,10 @@ h2{
 }
 
 .nav-link{
-    font-size: 1.2rem;
-    font-size: 'Montserrat';
-    font-weight: 200;
+    font-size: 1.5rem;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    color: white !important;
 }
 
 /* Download Buttons */
